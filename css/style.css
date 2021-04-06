@@ -314,21 +314,21 @@ p {
   font-size: .8em;
 }
 
-.facts{
-background-color: #7de2d1;
-border-radius: 1.5em;
-border-style: unset;
-margin: 2% 5%;
-font-weight: bold;
+.facts {
+  background-color: #7de2d1;
+  border-radius: 1.5em;
+  border-style: unset;
+  margin: 2% 5%;
+  font-weight: bold;
 }
 
-.mod-cats{
+.mod-cats {
   width: 100;
   height: auto;
 }
 
 /*<!--==========       ==========-->*/
-.cati{
+.cati {
   max-width: 100%;
   margin: 5%;
 

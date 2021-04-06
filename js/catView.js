@@ -6,7 +6,7 @@ generate_btn.addEventListener("click", catsImg);
 
 function catsImg() {
   let catsImgDiv = document.querySelector(".catsImgDiv")
-  catsImgDiv.innerHTML=''
+  catsImgDiv.innerHTML = ''
 
   fetch(url)
     .then(response => response.json())

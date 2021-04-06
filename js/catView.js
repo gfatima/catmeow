@@ -1,6 +1,4 @@
-//axios.defaults.headers.common['x-api-key'] = "d8927754-2985-4779-a3f5-f454e27cdd70"
 const url = 'https://api.thecatapi.com/v1/images/search';
-//https://thecatapi.com/v1/images? 
 api_key = "d8927754-2985-4779-a3f5-f454e27cdd70";
 let generate_btn = document.querySelector(".generate_btn");
 

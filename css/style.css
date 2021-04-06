@@ -44,7 +44,7 @@ body {
 
 nav ul {
   list-style: none;
-  /* removes the bullets! */
+  /* removes the bullets! 444*/
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
   margin: 3px 0px 0px;

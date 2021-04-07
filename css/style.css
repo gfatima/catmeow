@@ -590,11 +590,12 @@ footer {
     padding: auto;
   }
 
-  .banner2 {
+  .banner2,
+  .banner3 {
     grid-column: 1/6;
     width: 99%;
     height: auto;
-    margin: 5px;
+    margin: auto;
     padding: auto;
   }
 
@@ -626,13 +627,22 @@ footer {
     border-radius: .5em;
   }
 
+  .modal-cats {
+    width: 99%;
+    color: #131515;
+  }
+
+  .modal-cats p {
+    color: #131515;
+  }
+
   .footer-paragraph {
     width: 100%;
     height: auto;
-    font-size: 10px;
+    font-size: 9px;
     grid-column: 1 / 8;
     grid-row: 2;
-    padding: auto;
+    margin-top: -2%;
   }
 
   .social {
@@ -645,12 +655,12 @@ footer {
   }
 
   footer img {
-    width: 120%;
+    width: 100%;
   }
 
   .social-logo {
     grid-column: 2 / 8;
-    grid-row: 1/2;
+    grid-row: 1;
   }
 
 }
